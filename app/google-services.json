@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155869979529",
+    "firebase_url": "https://kotlinnotifikasi.firebaseio.com",
+    "project_id": "kotlinnotifikasi",
+    "storage_bucket": "kotlinnotifikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155869979529:android:8c1c9d1f7cc4ccf0127758",
+        "android_client_info": {
+          "package_name": "com.example.kotlinnotifikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155869979529-f7e89t7k9kjjnl6220it1hhgeajhm201.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinnotifikasi",
+            "certificate_hash": "8551ebb313f37cacf7e91d4e5e6e8ddccb4d7cf9"
+          }
+        },
+        {
+          "client_id": "155869979529-m85bv4sld5lb9eevf1ppf768aue2e8n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsm-16SNY3b_7y5Qn_jF1qAdRad4nZKUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155869979529-m85bv4sld5lb9eevf1ppf768aue2e8n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
